@@ -4,7 +4,7 @@
 
 <br>
 
-### basic part of the task:
+### introductory part of the task:
 > Every time you **commit** to your repository that holds terraform code, a pipeline will be triggered that will contain a few steps like running `terraform plan` or `terraform apply` steps.
 
 1. Create a **Service Account** for Terraform.
