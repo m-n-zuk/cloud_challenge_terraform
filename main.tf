@@ -25,9 +25,9 @@ resource "google_compute_instance" "dareit-vm-ci" {
 
 # modify the code of the main.tf to add a new bucket
 
-resource "google_storage_bucket" "bucket" {
-  name = "task_7_terraform_ci"
-  project = "data-tangent-378423"
-  storage_class = "standard"
-  location = "EU"
-}
+# resource "google_storage_bucket" "bucket" {
+#   name = "task_7_terraform_ci"
+#   project = "data-tangent-378423"
+#   storage_class = "standard"
+#   location = "EU"
+# }
